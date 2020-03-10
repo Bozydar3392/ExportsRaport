@@ -1,0 +1,18 @@
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\bin\Debug\ExportRaport.exe.config
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\bin\Debug\ExportRaport.exe
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\bin\Debug\ExportRaport.pdb
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.csprojResolveAssemblyReference.cache
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.Form1.resources
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.Properties.Resources.resources
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.csproj.GenerateResource.Cache
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.exe
+c:\users\bozydar\documents\visual studio 2015\Projects\ExportRaport\ExportRaport\obj\Debug\ExportRaport.pdb
+F:\VS_Project\ExportRaport\ExportRaport\bin\Debug\ExportRaport.exe.config
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.exe
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.pdb
+F:\VS_Project\ExportRaport\ExportRaport\bin\Debug\ExportRaport.exe
+F:\VS_Project\ExportRaport\ExportRaport\bin\Debug\ExportRaport.pdb
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.csprojResolveAssemblyReference.cache
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.Form1.resources
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.Properties.Resources.resources
+F:\VS_Project\ExportRaport\ExportRaport\obj\Debug\ExportRaport.csproj.GenerateResource.Cache
